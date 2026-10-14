@@ -1,4 +1,4 @@
-# SLMS — School Learning Management System
+# School Management System (SLMS)
 
 A school administration web app (2018) built with **Node.js / Express**, **MongoDB**
 and **AngularJS 1.x**. It covers the "super admin" setup side of a school system:
